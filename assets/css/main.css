@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'FiraSans-bold';
+    src: url("/assets/fonts/FiraSans-Bold.woff2");
+
+    font-family: 'FiraSans-medium';
+    src: url("/assets/fonts/FiraSans-Medium.woff2");
+
+    font-family: 'FiraSans-regular';
+    src: url("/assets/fonts/FiraSans-Regular.woff2");
+}
+
+body {
+    /* background-color: #e2e2e2; */
+    font-family: 'FiraSans-regular', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 8px;
+}
+
+header {
+    font-weight: 800;
+    justify-content: space-around;
+}
+
+.navbar {
+    color: #4149E1;
+}
+
+li {
+    font-family: 'FiraSans-Bold';
+    font-weight: bold;
+}
+
+.container {
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding-top: 20px;
+    position:relative;
+    text-align: center;
+    width: 100%;
+ }
+
+ #clients {
+     padding: 3rem;
+ }
+
+
+
